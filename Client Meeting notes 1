@@ -1,0 +1,12 @@
+Dismas Ficklen and Brandon Davis (Team 3D Cars) w/ Prof. Li Meeting Notes
+(2/23/23)
+Sprint 2
+
+Meeting Times: We will meet bi-weekly on Thursdays, at 10am at W. Li’s office (DH 321). Next meeting is on 3/16. (Delayed due to Spring Break)
+
+Project Goal: The goal for this sprint is to be able to build a 3D scenario from a 2D scenario
+
+  For this sprint, we will be looking over DarraghMac97's "Real-time-Traffic-Simulation-with-3D-Visualisation" code on github. 
+    (https://github.com/DarraghMac97/Real-time-Traffic-Simulation-with-3D-Visualisation) 
+  And learn how this code operates, and learn how to turn 2D models from SUMO into 3D models from Unity. 
+   
